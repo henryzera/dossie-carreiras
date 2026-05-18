@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="720" viewBox="0 0 720 720" role="img" aria-labelledby="title desc">
+  <title id="title">Foto profissional</title>
+  <desc id="desc">Espaco reservado para substituir por uma foto profissional.</desc>
+  <rect width="720" height="720" fill="#e8f0ea"/>
+  <circle cx="360" cy="282" r="114" fill="#2f7d5e"/>
+  <path d="M154 646c24-128 103-202 206-202s182 74 206 202" fill="#d08b36"/>
+  <path d="M94 96h532v528H94z" fill="none" stroke="#1d2320" stroke-width="16"/>
+  <text x="360" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#1d2320">Sua foto aqui</text>
+</svg>
