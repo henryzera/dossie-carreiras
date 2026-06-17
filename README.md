@@ -15,18 +15,14 @@ Site estático para o Dossiê de Carreira, adaptado para GitHub Pages em vez de 
 - `planejamento-pos-faculdade.html`: Página 8 - Planejamento Pós-Faculdade.
 - `sintese-final.html`: Página 9 - Síntese Final.
 
-## Checklist da Semana 1
+## Checklist da Semana 4 - Consolidação
 
-- [x] Criar a estrutura do site do Dossiê de Carreira.
-- [x] Definir título do site.
-- [x] Criar páginas obrigatórias.
-- [x] Organizar menu e navegação.
-- [x] Preencher base da Página Inicial.
-- [x] Inserir links importantes.
-- [x] Começar Perfil Profissional.
-- [x] Iniciar Diagnóstico Profissional.
-- [x] Definir padrão visual.
-- [x] Personalizar dados reais.
-- [x] Revisar links locais.
-- [ ] Publicar no GitHub Pages.
-- [ ] Enviar link da página publicada na atividade.
+- [x] Revisar todas as páginas do site (organização, clareza, ortografia, links, navegação e estrutura visual).
+- [x] Atualizar "Evidências e Aprendizados" com evidências reais (contexto, participação e aprendizado).
+- [x] Produzir reflexão aprofundada sobre a evolução do semestre.
+- [x] Atualizar "Projetos e Percurso Acadêmico" com projetos, Projeto Integrador e entregas relevantes.
+- [x] Atualizar "Planejamento Pós-Faculdade" com áreas de interesse, competências e próximos passos.
+- [x] Atualizar "Síntese Final" com reflexão integradora e carta para o eu do futuro.
+- [x] Verificar se o site está apresentável como portfólio.
+- [ ] Publicar todas as atualizações.
+- [ ] Enviar o link final atualizado na atividade.
